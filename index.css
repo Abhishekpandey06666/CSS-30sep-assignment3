@@ -1,0 +1,10 @@
+.cdimg{
+    height: 200px;
+    width: 180px;
+    float: right;
+}
+.card{
+    background-color: rgb(216, 229, 235);
+    border-radius: 10px;
+    padding: 10px;
+}
